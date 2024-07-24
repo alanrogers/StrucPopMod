@@ -1,0 +1,3 @@
+heterozygosity: 2.06510e-04
+heterozygosity: 1.99810e-04
+heterozygosity: 1.99270e-04

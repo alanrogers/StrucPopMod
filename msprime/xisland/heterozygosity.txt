@@ -1,0 +1,6 @@
+n_extinctions = 5519
+heterozygosity: 1.96680e-04
+n_extinctions = 5527
+heterozygosity: 2.00982e-04
+n_extinctions = 5429
+heterozygosity: 2.05547e-04
